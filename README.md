@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KritikaA04
-- 👀 I’m interested in Web Development (Full Stack Development)
+- 👀 I’m interested in Web Development and Full Stack Development
 - 🌱 I’m currently exploring new frameworks and languages(ReactJS, NodeJS, Flutter), Recently, I have also gained inclination towards Machine Learning. 
 
 <!---
